@@ -7,4 +7,4 @@ function Ahlam() {
     );
   }
   
-  export default App;
+  export default Ahlam;
